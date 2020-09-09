@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Michael Fichman"
-date: "September 9, 2020"
-output: html_document
----
-
 ```{r setup, include=FALSE}
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
