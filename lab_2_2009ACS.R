@@ -82,7 +82,7 @@ palette5 <- c("#f0f9e8","#bae4bc","#7bccc4","#43a2ca","#0868ac")
 
 # Load census API key
 
-census_api_key("LOAD YOUR KEY HERE", overwrite = TRUE)
+census_api_key("e79f3706b6d61249968c6ce88794f6f556e5bf3d", overwrite = TRUE)
 
 # ---- Year 2009 tracts -----
 
